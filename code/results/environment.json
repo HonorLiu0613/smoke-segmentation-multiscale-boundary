@@ -1,0 +1,24 @@
+{
+  "arguments": {
+    "data": "C:\\Users\\18245\\Desktop\\\u4eba\u5de5\u667a\u80fd\u5927\u4f5c\u4e1a\\code\\data\\smoke5k-main",
+    "size": 128,
+    "epochs": 12,
+    "train_n": 400,
+    "val_n": 100,
+    "batch": 16,
+    "threads": 4,
+    "lr": 0.001,
+    "edge_weight": 0.2,
+    "seeds": [
+      42,
+      2026
+    ],
+    "cpu": true
+  },
+  "device": "cpu",
+  "torch": "2.13.0+cpu",
+  "python": "3.12.4",
+  "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "split_sha256": "11dadffb7ade79d524193d242877b83e80546e30336cc0a92f5bdbb1b3b1cf11"
+}

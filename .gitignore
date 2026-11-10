@@ -1,0 +1,29 @@
+# Local authoring materials and submitted documents
+/_work/
+/*.docx
+/*.pdf
+/*.zip
+/烟雾分割复现代码与实验结果_刘浩然/
+
+# Dataset: download separately; retain the exact provenance record
+/code/data/*
+!/code/data/provenance.json
+
+# Additional runs and single-image outputs
+/code/results_retrained*/
+/code/results_smoketest*/
+/prediction*.png
+/code/prediction*.png
+
+# Python and editor-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+.env.*

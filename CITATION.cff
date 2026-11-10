@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "如使用本课程研究代码与实验材料，请引用本仓库，并同时引用原始数据集论文。"
+title: "融合多尺度特征与边界监督的烟雾图像语义分割方法研究"
+type: software
+authors:
+  - family-names: "刘"
+    given-names: "浩然"
+version: 1.0.0
+date-released: 2026-11-10
+repository-code: "https://github.com/HonorLiu0613/smoke-segmentation-multiscale-boundary"
+url: "https://github.com/HonorLiu0613/smoke-segmentation-multiscale-boundary"
+keywords:
+  - smoke segmentation
+  - multiscale features
+  - boundary supervision
+  - reproducibility

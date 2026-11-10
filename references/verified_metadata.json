@@ -1,0 +1,1920 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T11:42:36Z",
+      "timestamp": 1794051756832,
+      "version": "4.8.0"
+    },
+    "reference-count": 49,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2021-03-31T00:00:00Z",
+          "timestamp": 1617148800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100014071",
+        "name": "National Science Foundation LFO",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100014071",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000181",
+        "name": "Air Force Office of Scientific Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000181",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Computer Networks"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.comnet.2021.108001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2021-03-23T15:48:26Z",
+      "timestamp": 1616514506000
+    },
+    "page": "108001",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 375,
+    "special_numbering": "C",
+    "title": [
+      "Aerial imagery pile burn detection using deep learning: The FLAME dataset"
+    ],
+    "prefix": "10.1016",
+    "volume": "193",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4087-8304",
+        "authenticated-orcid": false,
+        "given": "Alireza",
+        "family": "Shamsoshoara",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Fatemeh",
+        "family": "Afghah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abolfazl",
+        "family": "Razi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Liming",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter Z.",
+        "family": "Fulé",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erik",
+        "family": "Blasch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.comnet.2021.108001_b1",
+        "series-title": "National interagency fire center",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b2",
+        "series-title": "National interagency fire center",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1155/2018/1639715",
+        "article-title": "Forest fire prevention, detection, and fighting based on fuzzy logic and wireless sensor networks",
+        "volume": "2018",
+        "author": "Toledo-Castro",
+        "year": "2018",
+        "journal-title": "Complexity"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b4",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1016/j.jnca.2019.07.005",
+        "article-title": "Fog-assisted IoT-enabled scalable network infrastructure for wildfire surveillance",
+        "volume": "144",
+        "author": "Kaur",
+        "year": "2019",
+        "journal-title": "J. Netw. Comput. Appl."
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b5",
+        "series-title": "Handbook of Dynamic Data Driven Applications Systems",
+        "first-page": "215",
+        "article-title": "Transforming wildfire detection and prediction using new and underused sensor and data sources integrated with modeling",
+        "author": "Coen",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b6",
+        "series-title": "2020 IEEE 21st International Symposium on“ a World of Wireless, Mobile and Multimedia Networks”",
+        "first-page": "335",
+        "article-title": "Wildfire spread modeling with aerial image processing",
+        "author": "Huang",
+        "year": "2020"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.comnet.2021.108001_b7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1783",
+        "DOI": "10.5194/essd-11-1783-2019",
+        "article-title": "Global carbon budget 2019",
+        "volume": "11",
+        "author": "Friedlingstein",
+        "year": "2019",
+        "journal-title": "Earth Syst. Sci. Data"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.comnet.2021.108001_b8",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1109/MPRV.2017.11",
+        "article-title": "Help from the sky: Leveraging UAVs for disaster management",
+        "volume": "16",
+        "author": "Erdelj",
+        "year": "2017",
+        "journal-title": "IEEE Pervasive Comput."
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b9",
+        "series-title": "2018 Annual American Control Conference",
+        "first-page": "5968",
+        "article-title": "A coalition formation approach to coordinated task allocation in heterogeneous UAV networks",
+        "author": "Afghah",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b10",
+        "series-title": "2020 American Control Conference",
+        "first-page": "1767",
+        "article-title": "Risk aware SUAS path planning in an unstructured wildfire environment",
+        "author": "Aggarwal",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b11",
+        "series-title": "IEEE INFOCOM 2019 - IEEE Conference on Computer Communications Workshops",
+        "first-page": "835",
+        "article-title": "Wildfire monitoring in remote areas using autonomous unmanned aerial vehicles",
+        "author": "Afghah",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b12",
+        "series-title": "2019 16th IEEE Annual Consumer Communications & Networking Conference",
+        "first-page": "1",
+        "article-title": "Distributed cooperative spectrum sharing in uav networks using multi-agent reinforcement learning",
+        "author": "Shamsoshoara",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b13",
+        "series-title": "2019 16th Annual IEEE International Conference on Sensing, Communication, and Networking",
+        "first-page": "1",
+        "article-title": "A solution for dynamic spectrum management in mission-critical uav networks",
+        "author": "Shamsoshoara",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b14",
+        "doi-asserted-by": "crossref",
+        "first-page": "58064",
+        "DOI": "10.1109/ACCESS.2020.2982932",
+        "article-title": "An autonomous spectrum management scheme for unmanned aerial vehicle networks in disaster relief operations",
+        "volume": "8",
+        "author": "Shamsoshoara",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b15",
+        "series-title": "Benchmarking TPU, GPU, and CPU platforms for deep learning",
+        "author": "Wang",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b16",
+        "series-title": "Edge TPU - google",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b17",
+        "series-title": "NVIDIA jetson nano",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b18",
+        "series-title": "2020 54th Annual Conference on Information Sciences and Systems",
+        "first-page": "1",
+        "article-title": "Transfer learning for wildfire identification in UAV imagery",
+        "author": "Wu",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b19",
+        "series-title": "Towards federated learning at scale: System design",
+        "author": "Bonawitz",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b20",
+        "doi-asserted-by": "crossref",
+        "first-page": "53841",
+        "DOI": "10.1109/ACCESS.2020.2981430",
+        "article-title": "Federated learning for UAVs-enabled wireless networks: Use cases, challenges, and open problems",
+        "volume": "8",
+        "author": "Brik",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b21",
+        "series-title": "DJI - phantom 3 professional",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b22",
+        "series-title": "DJI - Matrice 200 V1",
+        "author": "Company",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b23",
+        "series-title": "DJI Zenmuse X4s - specifications, FAQs, videos, tutorials, manuals, DJI GO - DJI",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b24",
+        "series-title": "FLIR Vue pro r radiometric drone thermal camera — FLIR systems",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b25",
+        "series-title": "Aerial images for Pile burn detection using drones (UAVs)",
+        "author": "Shamsoshoara",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b26",
+        "article-title": "Aerial images for pile burn detection using drones (UAVs)",
+        "author": "Shamsoshoara",
+        "year": "2020",
+        "journal-title": "WINIP LAB"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.comnet.2021.108001_b27",
+        "doi-asserted-by": "crossref",
+        "first-page": "147",
+        "DOI": "10.1016/j.firesaf.2008.05.005",
+        "article-title": "Fire detection in video sequences using a generic color model",
+        "volume": "44",
+        "author": "Celik",
+        "year": "2009",
+        "journal-title": "Fire Saf. J."
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.comnet.2021.108001_b28",
+        "first-page": "22",
+        "article-title": "State of the art of smoke and fire detection using image processing",
+        "volume": "10",
+        "author": "Umar",
+        "year": "2017",
+        "journal-title": "Int. J. Signal Imaging Syst. Eng."
+      },
+      {
+        "issue": "21",
+        "key": "10.1016/j.comnet.2021.108001_b29",
+        "first-page": "9786",
+        "article-title": "Fire recognition using RGB and YCbCr color space",
+        "volume": "10",
+        "author": "binti Zaidi",
+        "year": "2015",
+        "journal-title": "ARPN J. Eng. Appl. Sci."
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b30",
+        "series-title": "2015 International Conference on Unmanned Aircraft Systems",
+        "first-page": "639",
+        "article-title": "UAV-Based forest fire detection and tracking using image processing techniques",
+        "author": "Yuan",
+        "year": "2015"
+      },
+      {
+        "issue": "S09",
+        "key": "10.1016/j.comnet.2021.108001_b31",
+        "first-page": "22",
+        "article-title": "A computer vision based method for fire detection in color videos",
+        "volume": "2",
+        "author": "Qi",
+        "year": "2009",
+        "journal-title": "Int. J. Imaging"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b32",
+        "series-title": "2018 International Conference on Advances in Computing, Communications and Informatics",
+        "first-page": "1184",
+        "article-title": "A highly accurate fire detection method using discriminate method",
+        "author": "Kundu",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "F. Chollet, Xception: Deep learning with depthwise separable convolutions, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2017, pp. 1251–1258.",
+        "DOI": "10.1109/CVPR.2017.195"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "C. Szegedy, V. Vanhoucke, S. Ioffe, J. Shlens, Z. Wojna, Rethinking the inception architecture for computer vision, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 2818–2826.",
+        "DOI": "10.1109/CVPR.2016.308"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b35",
+        "series-title": "Inception-v4, inception-resnet and the impact of residual connections on learning",
+        "author": "Szegedy",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "K. He, X. Zhang, S. Ren, J. Sun, Deep residual learning for image recognition, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 770–778.",
+        "DOI": "10.1109/CVPR.2016.90"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b37",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "first-page": "597",
+        "article-title": "Convergence analysis of two-layer neural networks with relu activation",
+        "author": "Li",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b38",
+        "series-title": "GitHub repository",
+        "article-title": "Fire-detection-uav-aerial-image-classification-segmentation-unmannedaerialvehicle",
+        "author": "Shamsoshoara",
+        "year": "2020"
+      },
+      {
+        "issue": "2–4",
+        "key": "10.1016/j.comnet.2021.108001_b39",
+        "doi-asserted-by": "crossref",
+        "first-page": "635",
+        "DOI": "10.1007/s10846-016-0464-7",
+        "article-title": "Aerial images-based forest fire detection for firefighting using optical remote sensing techniques and unmanned aerial vehicles",
+        "volume": "88",
+        "author": "Yuan",
+        "year": "2017",
+        "journal-title": "J. Intell. Robot. Syst."
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b40",
+        "series-title": "2007 15th European Signal Processing Conference",
+        "first-page": "1794",
+        "article-title": "Fire and smoke detection without sensors: Image processing based approach",
+        "author": "Çelik",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b41",
+        "first-page": "1",
+        "article-title": "Fire detection using multi color space and background modeling",
+        "author": "Khalil",
+        "year": "2020",
+        "journal-title": "Fire Technol."
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b42",
+        "series-title": "Image segmentation software from Labelbox",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b43",
+        "series-title": "image labelling tool: Bitbucket",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b44",
+        "series-title": "labelImg: LabelImg is a graphical image annotation tool and label object bounding boxes in images",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b45",
+        "series-title": "Image labeler, MATLAB & simulink",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b46",
+        "series-title": "GIMP - GNU image manipulation program",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b47",
+        "series-title": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+        "first-page": "234",
+        "article-title": "U-net: Convolutional networks for biomedical image segmentation",
+        "author": "Ronneberger",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b48",
+        "series-title": "ELU activation function, ML glossary documentation",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.comnet.2021.108001_b49",
+        "series-title": "Installing tensorflow for jetson platform :: NVIDIA deep learning frameworks documentation",
+        "year": "2021"
+      }
+    ],
+    "container-title": [
+      "Computer Networks"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1389128621001201?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1389128621001201?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2025-10-25T13:11:46Z",
+      "timestamp": 1761397906000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1389128621001201"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "references-count": 49,
+    "alternative-id": [
+      "S1389128621001201"
+    ],
+    "URL": "https://doi.org/10.1016/j.comnet.2021.108001",
+    "relation": {},
+    "ISSN": [
+      "1389-1286"
+    ],
+    "issn-type": [
+      {
+        "value": "1389-1286",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Aerial imagery pile burn detection using deep learning: The FLAME dataset",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Computer Networks",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.comnet.2021.108001",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 The Authors. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "108001"
+  },
+  {
+    "DOI": "10.3390/rs14041007",
+    "title": [
+      "FIgLib &amp; SmokeyNet: Dataset and Deep Learning Model for Real-Time Wildland Fire Smoke Detection"
+    ],
+    "author": [
+      {
+        "given": "Anshuman",
+        "family": "Dewangan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Computer Science and Engineering Department, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yash",
+        "family": "Pande",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Computer Science and Engineering Department, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hans-Werner",
+        "family": "Braun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "San Diego Supercomputer Center, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frank",
+        "family": "Vernon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Scripps Institution of Oceanography, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ismael",
+        "family": "Perez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "San Diego Supercomputer Center, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ilkay",
+        "family": "Altintas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "San Diego Supercomputer Center, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Garrison W.",
+        "family": "Cottrell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Computer Science and Engineering Department, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mai H.",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "San Diego Supercomputer Center, University of California, San Diego, CA 92093, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Remote Sensing"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          18
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "4",
+    "page": "1007",
+    "article-number": null,
+    "URL": "https://doi.org/10.3390/rs14041007",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2072-4292/14/4/1007/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "DOI": "10.1609/aaai.v36i3.20207",
+    "title": [
+      "Transmission-Guided Bayesian Generative Model for Smoke Segmentation"
+    ],
+    "author": [
+      {
+        "given": "Siyuan",
+        "family": "Yan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jing",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nick",
+        "family": "Barnes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AAAI Conference on Artificial Intelligence"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          28
+        ]
+      ]
+    },
+    "volume": "36",
+    "issue": "3",
+    "page": "3009-3017",
+    "article-number": null,
+    "URL": "https://doi.org/10.1609/aaai.v36i3.20207",
+    "link": [
+      {
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/download/20207/19966",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/download/20207/19966",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "DOI": "10.1007/978-3-319-24574-4_28",
+    "title": [
+      "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+    ],
+    "author": [
+      {
+        "given": "Olaf",
+        "family": "Ronneberger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Philipp",
+        "family": "Fischer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Brox",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "234-241",
+    "article-number": null,
+    "URL": "https://doi.org/10.1007/978-3-319-24574-4_28",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "DOI": "10.1007/978-3-030-01234-2_49",
+    "title": [
+      "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"
+    ],
+    "author": [
+      {
+        "given": "Liang-Chieh",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yukun",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George",
+        "family": "Papandreou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Florian",
+        "family": "Schroff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hartwig",
+        "family": "Adam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Computer Vision – ECCV 2018"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "833-851",
+    "article-number": null,
+    "URL": "https://doi.org/10.1007/978-3-030-01234-2_49",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-030-01234-2_49",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2026-08-18T03:20:39Z",
+      "timestamp": 1787023239427,
+      "version": "build-2736575974"
+    },
+    "reference-count": 0,
+    "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "issue": "7",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "AAAI"
+    ],
+    "abstract": "<jats:p>Early smoke segmentation (ESS) enables the accurate identification of smoke sources, facilitating the prompt extinguishing of fires and preventing large-scale gas leaks. But ESS poses greater challenges than conventional object and regular smoke segmentation due to its small scale and transparent appearance, which can result in high miss detection rate and low precision. To address these issues, a Focus and Separation Network (FoSp) is proposed. We first introduce a Focus module employing bidirectional cascade which guides low-resolution and high-resolution features towards mid-resolution to locate and determine the scope of smoke, reducing the miss detection rate. Next, we propose a Separation module that separates smoke images into a pure smoke foreground and a smoke-free background, enhancing the contrast between smoke and background fundamentally, improving segmentation precision. Finally, a Domain Fusion module is developed to integrate the distinctive features of the two modules which can balance recall and precision to achieve high F_beta. Futhermore, to promote the development of ESS, we introduce a high-quality real-world dataset called SmokeSeg, which contains more small and transparent smoke than the existing datasets. Experimental results show that our model achieves the best performance on three available smoke segmentation datasets: SYN70K (mIoU: 83.00%), SMOKE5K (F_beta: 81.6%) and SmokeSeg (F_beta: 72.05%). The code can be found at https://github.com/LujianYao/FoSp.</jats:p>",
+    "DOI": "10.1609/aaai.v38i7.28484",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2024-03-25T05:59:41Z",
+      "timestamp": 1711346381000
+    },
+    "page": "6621-6629",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "FoSp: Focus and Separation Network for Early Smoke Segmentation"
+    ],
+    "prefix": "10.1609",
+    "volume": "38",
+    "author": [
+      {
+        "given": "Lujian",
+        "family": "Yao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Haitao",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jingchao",
+        "family": "Peng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhongze",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kaijie",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "9382",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          24
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the AAAI Conference on Artificial Intelligence"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/download/28484/28943",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/download/28484/28944",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/download/28484/28943",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2024-03-25T05:59:42Z",
+      "timestamp": 1711346382000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/view/28484"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          24
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            25
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1609/aaai.v38i7.28484",
+    "relation": {},
+    "ISSN": [
+      "2374-3468",
+      "2159-5399"
+    ],
+    "issn-type": [
+      {
+        "value": "2374-3468",
+        "type": "electronic"
+      },
+      {
+        "value": "2159-5399",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.1109/iccv.2015.164",
+    "title": [
+      "Holistically-Nested Edge Detection"
+    ],
+    "author": [
+      {
+        "given": "Saining",
+        "family": "Xie",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhuowen",
+        "family": "Tu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "2015 IEEE International Conference on Computer Vision (ICCV)"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    },
+    "volume": null,
+    "issue": null,
+    "page": "1395-1403",
+    "article-number": null,
+    "URL": "https://doi.org/10.1109/iccv.2015.164",
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/7407725/7410356/07410521.pdf?arnumber=7410521",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2026-11-10T03:37:12Z",
+      "timestamp": 1794281832245,
+      "version": "4.9.0"
+    },
+    "reference-count": 60,
+    "publisher": "IEEE",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2019-10-01T00:00:00Z",
+          "timestamp": 1569888000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2019-10-01T00:00:00Z",
+          "timestamp": 1569888000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2019-10-01T00:00:00Z",
+          "timestamp": 1569888000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1109/iccv.2019.00533",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2020-02-28T05:27:52Z",
+      "timestamp": 1582867672000
+    },
+    "page": "5228-5237",
+    "source": "Crossref",
+    "is-referenced-by-count": 673,
+    "title": [
+      "Gated-SCNN: Gated Shape CNNs for Semantic Segmentation"
+    ],
+    "prefix": "10.1109",
+    "author": [
+      {
+        "given": "Towaki",
+        "family": "Takikawa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Acuna",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Varun",
+        "family": "Jampani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sanja",
+        "family": "Fidler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.433"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/34.24791"
+      },
+      {
+        "key": "ref33",
+        "article-title": "Fast interactive object annotation with curve-gcn",
+        "author": "ling",
+        "year": "2019",
+        "journal-title": "CVPR"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.348"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.549"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2009.5206872"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2015.7298965"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2015.162"
+      },
+      {
+        "key": "ref35",
+        "first-page": "1520",
+        "article-title": "Learning affinity via spatial propagation networks",
+        "author": "liu",
+        "year": "2017",
+        "journal-title": "NIPS"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2019.00017"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2015.179"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00106"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.579"
+      },
+      {
+        "key": "ref29",
+        "first-page": "109",
+        "article-title": "Efficient inference in fully connected crfs with gaussian edge potentials",
+        "author": "krähenbühl",
+        "year": "2011",
+        "journal-title": "NIPS"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00096"
+      },
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2019.01133"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2014.45"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.632"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.243"
+      },
+      {
+        "key": "ref24",
+        "article-title": "Categorical reparameterization with gumbel-softmax",
+        "author": "jang",
+        "year": "2016",
+        "journal-title": "arXiv preprint arXiv 1611 01144"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.482"
+      },
+      {
+        "key": "ref26",
+        "first-page": "7482",
+        "article-title": "Multi-task learning using uncertainty to weigh losses for scene geometry and semantics",
+        "author": "kendall",
+        "year": "2018",
+        "journal-title": "CVPR"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-01246-5_36"
+      },
+      {
+        "key": "ref50",
+        "article-title": "Tree-structured kronecker convolutional networks for semantic segmentation",
+        "author": "wu",
+        "year": "2018",
+        "journal-title": "arXiv preprint arXiv 1812 02588"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2015.164"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.660"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.79"
+      },
+      {
+        "key": "ref57",
+        "article-title": "Wide residual networks",
+        "author": "zagoruyko",
+        "year": "2016",
+        "journal-title": "arXiv preprint arXiv 1605 07146"
+      },
+      {
+        "key": "ref56",
+        "article-title": "Simultaneous edge alignment and learning",
+        "author": "yu",
+        "year": "2018",
+        "journal-title": "ECCV"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.191"
+      },
+      {
+        "key": "ref54",
+        "article-title": "Free-form image inpainting with gated convolution",
+        "author": "yu",
+        "year": "2018",
+        "journal-title": "arXiv preprint arXiv 1806 03589"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00255"
+      },
+      {
+        "key": "ref52",
+        "article-title": "Multi-scale context aggregation by dilated convolutions",
+        "author": "yu",
+        "year": "2016",
+        "journal-title": "ICLRE"
+      },
+      {
+        "key": "ref10",
+        "article-title": "Rethinking atrous convolution for semantic image segmentation",
+        "author": "chen",
+        "year": "2017",
+        "journal-title": "arXiv preprint arXiv 1706 05587"
+      },
+      {
+        "key": "ref11",
+        "article-title": "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+        "author": "chen",
+        "year": "2018",
+        "journal-title": "ECCV"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICCV.2017.534"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSTARS.2017.2747599"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.350"
+      },
+      {
+        "key": "ref14",
+        "first-page": "933",
+        "article-title": "Language modeling with gated convolutional networks",
+        "author": "dauphin",
+        "year": "2017",
+        "journal-title": "ICML"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-46448-0_36"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2010324.1964964"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2012.6248074"
+      },
+      {
+        "key": "ref18",
+        "first-page": "519",
+        "article-title": "Laplacian pyramid reconstruction and refinement for semantic segmentation",
+        "author": "ghiasi",
+        "year": "2016",
+        "journal-title": "ECCV"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.90"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.392"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5244/C.30.19"
+      },
+      {
+        "key": "ref6",
+        "first-page": "4545",
+        "article-title": "Semantic image segmentation with task-specific edge detection using cnns and a discriminatively trained domain transform",
+        "author": "chen",
+        "year": "2016",
+        "journal-title": "CVPR"
+      },
+      {
+        "key": "ref5",
+        "first-page": "402",
+        "article-title": "Fast, exact and multi-scale inference for semantic image segmentation with deep gaussian crfs",
+        "author": "chandra",
+        "year": "2016",
+        "journal-title": "ECCV"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TPAMI.2017.2699184"
+      },
+      {
+        "key": "ref7",
+        "first-page": "8713",
+        "article-title": "Searching for efficient multi-scale architectures for dense image prediction",
+        "author": "chen",
+        "year": "2018",
+        "journal-title": "NIPS"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00813"
+      },
+      {
+        "key": "ref9",
+        "article-title": "Semantic image segmentation with deep convolutional nets and fully connected crfs",
+        "author": "chen",
+        "year": "2015",
+        "journal-title": "ICLRE"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/IVS.2018.8500504"
+      },
+      {
+        "key": "ref45",
+        "article-title": "Very deep convolutional networks for large-scale image recognition",
+        "author": "simonyan",
+        "year": "2014",
+        "journal-title": "arXiv preprint arXiv 1409 1556"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2018.00917"
+      },
+      {
+        "key": "ref47",
+        "first-page": "4790",
+        "article-title": "Conditional image generation with pixelcnn decoders",
+        "author": "van den oord",
+        "year": "2016",
+        "journal-title": "NIPS"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2016.85"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.189"
+      },
+      {
+        "key": "ref44",
+        "article-title": "Fully Connected Deep Structured Networks",
+        "author": "schwing",
+        "year": "2015",
+        "journal-title": "arXiv 1503 02351"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CVPR.2017.353"
+      }
+    ],
+    "event": {
+      "name": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "location": "Seoul, Korea (South)",
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            27
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2019,
+            11,
+            2
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "2019 IEEE/CVF International Conference on Computer Vision (ICCV)"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/8972782/9008105/09009833.pdf?arnumber=9009833",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2022-07-17T17:52:14Z",
+      "timestamp": 1658080334000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/9009833/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10
+        ]
+      ]
+    },
+    "references-count": 60,
+    "URL": "https://doi.org/10.1109/iccv.2019.00533",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          10
+        ]
+      ]
+    }
+  }
+]

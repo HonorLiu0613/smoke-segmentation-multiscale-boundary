@@ -1,0 +1,41 @@
+{
+  "positive_test_images": 399,
+  "aggregation": "per-image IoU averaged across seeds 42 and 2026 before plotting",
+  "improved_images": 120,
+  "degraded_images": 64,
+  "tied_images": 215,
+  "quartiles": [
+    {
+      "quartile": 1,
+      "n": 100,
+      "min_area_percent": 0.006103515625,
+      "max_area_percent": 0.128173828125,
+      "median_delta_iou_pp": -2.2298808910470314e-07,
+      "mean_delta_iou_pp": 0.1354683604995067
+    },
+    {
+      "quartile": 2,
+      "n": 100,
+      "min_area_percent": 0.128173828125,
+      "max_area_percent": 0.341796875,
+      "median_delta_iou_pp": -1.0190956811068075e-07,
+      "mean_delta_iou_pp": 0.09365537332178554
+    },
+    {
+      "quartile": 3,
+      "n": 100,
+      "min_area_percent": 0.341796875,
+      "max_area_percent": 1.116943359375,
+      "median_delta_iou_pp": 0.0,
+      "mean_delta_iou_pp": 0.5031797737950727
+    },
+    {
+      "quartile": 4,
+      "n": 99,
+      "min_area_percent": 1.15966796875,
+      "max_area_percent": 81.15234375,
+      "median_delta_iou_pp": 0.5138568580150604,
+      "mean_delta_iou_pp": 2.652549327695247
+    }
+  ]
+}

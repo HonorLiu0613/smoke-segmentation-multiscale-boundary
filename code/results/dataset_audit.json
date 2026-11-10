@@ -1,0 +1,23 @@
+{
+  "train": {
+    "count": 400,
+    "mean_foreground_fraction": 0.25009201049804686,
+    "median_foreground_fraction": 0.18243408203125,
+    "empty_masks": 0,
+    "numeric_double_filename": 338
+  },
+  "validation": {
+    "count": 100,
+    "mean_foreground_fraction": 0.011605224609375,
+    "median_foreground_fraction": 0.002899169921875,
+    "empty_masks": 0,
+    "numeric_double_filename": 0
+  },
+  "test": {
+    "count": 400,
+    "mean_foreground_fraction": 0.0222625732421875,
+    "median_foreground_fraction": 0.003326416015625,
+    "empty_masks": 1,
+    "numeric_double_filename": 0
+  }
+}

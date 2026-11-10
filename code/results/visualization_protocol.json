@@ -1,0 +1,46 @@
+{
+  "seed": 42,
+  "quantiles": [
+    0.1,
+    0.5,
+    0.9,
+    0.99
+  ],
+  "indices": [
+    44,
+    34,
+    32,
+    384
+  ],
+  "probability_range": [
+    0,
+    1
+  ],
+  "outputs": "sigmoid probabilities from segmentation and auxiliary boundary heads",
+  "samples": [
+    {
+      "image": "test/img/1563221123_-01680.jpg",
+      "mask": "test/gt/1563221123_-01680.png",
+      "foreground_fraction": 0.00054931640625,
+      "quantile": 0.1
+    },
+    {
+      "image": "test/img/1562960120_+00779.jpg",
+      "mask": "test/gt/1562960120_+00779.png",
+      "foreground_fraction": 0.00341796875,
+      "quantile": 0.5
+    },
+    {
+      "image": "test/img/1559169065_+01680.jpg",
+      "mask": "test/gt/1559169065_+01680.png",
+      "foreground_fraction": 0.03436279296875,
+      "quantile": 0.9
+    },
+    {
+      "image": "test/img/image_00002.jpg",
+      "mask": "test/gt/image_00002.png",
+      "foreground_fraction": 0.40399169921875,
+      "quantile": 0.99
+    }
+  ]
+}
